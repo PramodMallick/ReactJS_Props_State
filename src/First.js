@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import OneAvatar from './Avatar';
+import OneAvatar from './MyImage';
 import 'tachyons';
 
 class First extends Component
